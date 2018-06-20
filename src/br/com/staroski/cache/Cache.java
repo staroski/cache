@@ -1,4 +1,4 @@
-package br.com.staroski.tools.cache;
+package br.com.staroski.cache;
 
 import java.util.HashMap;
 import java.util.Map;

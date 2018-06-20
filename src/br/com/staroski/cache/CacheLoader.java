@@ -1,4 +1,4 @@
-package br.com.staroski.tools.cache;
+package br.com.staroski.cache;
 
 /**
  * Interface for loading objects from a {@link Cache cache}.
